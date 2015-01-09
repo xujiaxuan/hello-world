@@ -1,2 +1,3 @@
 # hello-world
-Xujiaxuans first repository on github
+Xujiaxuans first repository on github.
+just for it
